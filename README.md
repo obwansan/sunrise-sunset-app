@@ -18,7 +18,7 @@ This is an MVP prototype created in three hours. If the app is to be developed f
 ### Code
 * Generally, refactor the code into single action functions.
 
-* Specifically, create 'success' and 'error' functions and pass them into navigator.geolocation.getCurrentPosition(). This is better practice and will allow for more fine-grained error reporting (see https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API#Handling_errors). I tried this (and tried generally refactoring the code into functions), but ran into what seemed to be ES6 block scope issues and had to revert back to procedural code due to time pressure (or lack of skill, depending on your point of view...
+* Specifically, create 'success' and 'error' functions and pass them into navigator.geolocation.getCurrentPosition(). This is better practice and will allow for more fine-grained error reporting (see https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API#Handling_errors). I tried this (and tried generally refactoring the code into functions), but ran into what seemed to be ES6 block scope issues and had to revert back to procedural code due to time pressure (or lack of skill, depending on your point of view...)
 
 * Consider using the axios.js library rather than fetch(), as it may be better at error handling (see https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5).
 
@@ -29,4 +29,4 @@ This is an MVP prototype created in three hours. If the app is to be developed f
 ## Before putting into production
 * If the SVGs are used, include this attribution somewhere: <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> are licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
-* Get a proper designer to redesign the whole app :)
+* Get a proper designer to redesign the whole app : )
