@@ -27,7 +27,7 @@ This is an MVP prototype created in three hours. If the app is to be developed f
 * If you are going to pay for an API key, don't put it in GitHub (where nefarious types could copy and use it - with you footing the bill). Store your API key in a configuration file separate from your code (this is another good reason to set up a proxy server to make calls to the API behind the scenes. See https://darksky.net/dev/docs/faq#cross-origin).
 
 ## Before putting into production
-* If the SVGs are used, include this attribution somewhere: <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> are licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
-Or just buy some better SVGs and don't disfgure your app with ugly text...
+* If the SVGs are used, include this attribution somewhere (Or just buy some better SVGs and don't disfgure your app with ugly text...
+): <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> are licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 * Get a proper designer to redesign the whole app : )
