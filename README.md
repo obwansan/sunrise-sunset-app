@@ -28,5 +28,6 @@ This is an MVP prototype created in three hours. If the app is to be developed f
 
 ## Before putting into production
 * If the SVGs are used, include this attribution somewhere: <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> are licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+Or just buy some better SVGs and don't disfgure your app with ugly text...
 
 * Get a proper designer to redesign the whole app : )
