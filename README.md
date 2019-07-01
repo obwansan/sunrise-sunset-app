@@ -8,7 +8,7 @@
 * Prepare to be dazzled...
 
 ## Possible improvements / refactoring
-This is an MVP prototype created in three hours. If the app is to be developed further, various improvements should be considered.
+This is an MVP prototype created in (about) three hours. If the app is to be developed further, various improvements should be considered.
 
 ### Functionality
 * Could add a button the user clicks to open the app / display the information.
