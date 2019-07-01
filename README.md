@@ -5,6 +5,8 @@
 
 * Accept the browser pop-up request to know your location.
 
+* Prepare to be dazzled...
+
 ## Possible improvements / refactoring
 This is an MVP prototype created in three hours. If the app is to be developed further, various improvements should be considered.
 
